@@ -1,0 +1,7 @@
+table { width: 100%; 
+ border-collapse: collapse;
+ aspect-ratio: 1;
+ }
+ td{padding: 0; width: 12.5%; border: 2px solid black;}
+ .hneda{background-color: brown;}
+ .zluta{background-color: bisque;}

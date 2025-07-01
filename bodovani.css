@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+table.bodovaci-tabulka {
+    width: 100%;
+    border-collapse: collapse;        
+    margin: 20px 0;
+    
+  }
+  
+  
+ table.bodovaci-tabulka th,
+ table.bodovaci-tabulka td {
+    padding: 12px 16px;               
+    text-align: center;
+    
+  }
+  
+ 
+  table.bodovaci-tabulka th {
+    background-color: #0077b6;
+    color: white;
+    font-weight: bold;
+
+  }
+  
+  
+  table.bodovaci-tabulka tbody tr:nth-child(even){
+    background-color: #f0f8ff;
+  }
+  
+  
+  table.bodovaci-tabulka tbody tr:hover {
+    background-color: #c0e4fb;
+    transition: background-color 0.3s ease;
+  }
+
